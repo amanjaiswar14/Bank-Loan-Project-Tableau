@@ -1,11 +1,11 @@
-# Bank Loan Report Project
+ # 📊 Bank Loan  Project  | Tableau 
 
-## Problem Statement
+## 📌 Project Overview
 The objective of this project is to monitor and assess our bank's lending activities and performance through a comprehensive Bank Loan Report. This report will provide insights into key loan-related metrics and their changes over time, helping us make data-driven decisions, track our loan portfolio's health, and identify trends to inform our lending strategies.
 
-## Dashboards Overview
+## 🎯 Project Objective
 
-### Dashboard 1: Summary
+## ⭐Dashboard 1: Summary
 This dashboard provides a high-level overview of our bank's lending metrics, including:
 
 - **Total Loan Applications**: Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) Loan Applications and Month-over-Month (MoM) changes.
@@ -29,12 +29,13 @@ Distinguish between 'Good Loans' and 'Bad Loans' based on specific loan status c
   - Bad Loan Funded Amount
   - Bad Loan Total Received Amount
 
-### Dashboard 1: Loan Status Grid View
+ ## ⭐ Dashboard 1: Loan Status Grid View
 Gain a comprehensive overview of lending operations and monitor the performance of loans categorized by 'Loan Status', including metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI).'
 
-![]()
+## 📷 Dashboard Preview
+![image alt](https://github.com/amanjaiswar14/Bank-Loan-Project-Tableau/blob/2885270d97a33c6497fd97e268d74b9604cc5a77/Bank%20Loan%20Image(1).png)
 
-### Dashboard 2: Overview
+## ⭐Dashboard 2: Overview
 Visualize critical loan-related metrics and trends using various chart types:
 
 1. **Monthly Trends by Issue Date (Line Chart)**:
@@ -61,12 +62,16 @@ Visualize critical loan-related metrics and trends using various chart types:
    - Metrics: 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received'
    - Objective: View how home ownership impacts loan applications and disbursements.
 
-![]()
+## 📷 Dashboard Preview
+![image alt](https://github.com/amanjaiswar14/Bank-Loan-Project-Tableau/blob/2885270d97a33c6497fd97e268d74b9604cc5a77/Bank%20Loan%20Image%20(2).png)
 
-### Dashboard 3: Details
+
+## ⭐ Dashboard 3: Details
 The Details Dashboard provides a consolidated view of all essential loan data, offering a holistic snapshot of key loan-related metrics and data points for efficient access to critical information.
 
-![]()
+## 📷 Dashboard Preview
+![image alt](https://github.com/amanjaiswar14/Bank-Loan-Project-Tableau/blob/2885270d97a33c6497fd97e268d74b9604cc5a77/Bank%20Loan%20Image%20(3).png)
+
 ## Dependencies
 - Microsoft SQL Server: Queries are written in Microsoft SQL Serve
 - Tableau: Dashboards are built using Tableau for data visualization.
